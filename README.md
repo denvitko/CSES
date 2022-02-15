@@ -13,3 +13,7 @@
 - [Geometry](#Geometry)
 - [Advanced Techniques](#Advanced-Techniques)
 - [Additional Problems](#Additional-Problems)
+
+---
+## Introductory Problems
+1. [1068 - Weird Algorithm](src/1068_WeirdAlgorithm.cpp)
