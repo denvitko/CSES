@@ -17,15 +17,15 @@
 ---
 ## Introductory Problems
 1. [1068 - Weird Algorithm](src/1068_WeirdAlgorithm.cpp)
-1. 1083 - Missing Number
-1. 1069 - Repetitions
-1. 1094 - Increasing Array
-1. 1070 - Permutations
-1. 1071 - Number Spiral
-1. 1072 - Two Knights
-1. 1092 - Two Sets
-1. 1617 - Bit Strings
-1. 1618 - Trailing Zeros
+1. [1083 - Missing Number](src/1083_MissingNumber.cpp)
+1. [1069 - Repetitions](src/1069_Repetitions.cpp)
+1. [1094 - Increasing Array](src/1094_IncreasingArray.cpp)
+1. [1070 - Permutations](src/1070_Permutations.cpp)
+1. [1071 - Number Spiral](src/1071_NumberSpiral.cpp)
+1. [1072 - Two Knights](src/1072_TwoKnights.cpp)
+1. [1092 - Two Sets](src/1092_TwoSets.cpp)
+1. [1617 - Bit Strings](src/1617_BitStrings.cpp)
+1. [1618 - Trailing Zeros](src/1618_TrailingZeros.cpp)
 1. 1754 - Coin Piles
 1. 1755 - Palindrome Reorder
 1. 2205 - Gray Code
