@@ -26,7 +26,7 @@
 1. [1092 - Two Sets](src/1092_TwoSets.cpp)
 1. [1617 - Bit Strings](src/1617_BitStrings.cpp)
 1. [1618 - Trailing Zeros](src/1618_TrailingZeros.cpp)
-1. 1754 - Coin Piles
+1. [1754 - Coin Piles](src/1754_CoinPiles.cpp)
 1. 1755 - Palindrome Reorder
 1. 2205 - Gray Code
 1. 2165 - Tower of Hanoi
